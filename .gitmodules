@@ -1,0 +1,15 @@
+[submodule "autoload/AceJump.vim"]
+	path = bundle/AceJump.vim
+	url = https://github.com/MaryHal/AceJump.vim.git
+[submodule "autoload/vim-indexed-search"]
+	path = bundle/vim-indexed-search
+	url = git@github.com:henrik/vim-indexed-search.git
+[submodule "autoload/ack.vim"]
+	path = bundle/ack.vim
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "autoload/bufferhint"]
+	path = bundle/bufferhint
+	url = https://github.com/bsdelf/bufferhint.git
+[submodule "autoload/vim-clang"]
+	path = bundle/vim-clang
+	url = https://github.com/justmao945/vim-clang.git
